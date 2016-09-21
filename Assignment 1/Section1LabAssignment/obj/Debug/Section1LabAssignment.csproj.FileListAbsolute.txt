@@ -1,0 +1,9 @@
+C:\Users\rebec\Desktop\Section1LabAssignmentSolution\Section1LabAssignment\bin\Debug\Section1LabAssignment.exe.config
+C:\Users\rebec\Desktop\Section1LabAssignmentSolution\Section1LabAssignment\obj\Debug\Section1LabAssignment.csprojResolveAssemblyReference.cache
+C:\Users\rebec\Desktop\Section1LabAssignmentSolution\Section1LabAssignment\bin\Debug\Section1LabAssignment.exe
+C:\Users\rebec\Desktop\Section1LabAssignmentSolution\Section1LabAssignment\bin\Debug\Section1LabAssignment.pdb
+C:\Users\rebec\Desktop\Section1LabAssignmentSolution\Section1LabAssignment\obj\Debug\Section1LabAssignment.exe
+C:\Users\rebec\Desktop\Section1LabAssignmentSolution\Section1LabAssignment\obj\Debug\Section1LabAssignment.pdb
+C:\Users\rebec\Desktop\Section1LabAssignmentSolution - Copy\Section1LabAssignment\bin\Debug\Section1LabAssignment.exe.config
+C:\Users\rebec\Desktop\Section1LabAssignmentSolution - Copy\Section1LabAssignment\obj\Debug\Section1LabAssignment.exe
+C:\Users\rebec\Desktop\Section1LabAssignmentSolution - Copy\Section1LabAssignment\obj\Debug\Section1LabAssignment.pdb
